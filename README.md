@@ -95,34 +95,57 @@ AI-assisted Monitoring   Face/gaze tracking, suspicious-event detection, scoring
   <img src="https://leetcard.jacoblin.cool/lIlIlIlIlIlIlIllII?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode stats" />
 </a>
 
+[![](https://img.shields.io/badge/LeetCode-lIlIlIlIlIlIlIllII-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/lIlIlIlIlIlIlIllII/)
+![](https://img.shields.io/badge/Solved-514-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Ranking-183%2C162-yellow?style=flat&logo=leetcode)
+
 </div>
 
 | Platform | Solved | Easy | Medium | Hard | Ranking | Reputation |
 |----------|--------|------|--------|------|---------|------------|
 | [LeetCode](https://leetcode.com/u/lIlIlIlIlIlIlIllII/) | 514 | 175 | 263 | 76 | 183,162 | 128 |
 
+### LeetCode Medals
+
+![](https://img.shields.io/badge/Medal-365%20Days%20Badge-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Medal-200%20Days%20Badge%202025-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Medal-100%20Days%20Badge%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Medal-50%20Days%20Badge%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Medal-LeetCode%2075-yellow?style=flat&logo=leetcode)
+
+![](https://img.shields.io/badge/Challenge-May%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Apr%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Mar%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Feb%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Jan%202026-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Dec%202025-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Nov%202025-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Oct%202025-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Sep%202025-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Aug%202025-yellow?style=flat&logo=leetcode)
+![](https://img.shields.io/badge/Challenge-Jul%202025-yellow?style=flat&logo=leetcode)
+
 - Strongest visible signal: consistent algorithm practice with a large share of Medium and Hard problems.
 - Practice areas aligned with backend engineering: data structures, graph/search problems, dynamic programming, and performance-focused problem solving.
 - Public profile: [leetcode.com/u/lIlIlIlIlIlIlIllII](https://leetcode.com/u/lIlIlIlIlIlIlIllII/)
 
-## GitHub Stats
+## GitHub Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenHonggHoang&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHonggHoang&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=NguyenHonggHoang&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
+| Area | Details |
+|------|---------|
+| GitHub | [NguyenHonggHoang](https://github.com/NguyenHonggHoang) |
+| Main direction | Backend engineering, authentication, realtime systems, event-driven architecture |
+| Public work | Spring Boot services, full-stack apps, messaging examples, AI-assisted tooling notes |
+| Coding practice | [LeetCode profile](https://leetcode.com/u/lIlIlIlIlIlIlIllII/) with 514 solved problems |
 
 ## Connect
 
 <p>
   <a href="https://github.com/NguyenHonggHoang">
     <img src="https://img.shields.io/badge/GitHub-NguyenHonggHoang-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nguyenhonghoang/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Hong%20Hoang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/lIlIlIlIlIlIlIllII/">
     <img src="https://img.shields.io/badge/LeetCode-lIlIlIlIlIlIlIllII-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
