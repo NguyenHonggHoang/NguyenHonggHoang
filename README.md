@@ -14,6 +14,9 @@
   <a href="https://github.com/NguyenHonggHoang?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repositories-Profile-0e75b6?style=flat&logo=github" alt="Public repositories" />
   </a>
+  <a href="https://leetcode.com/u/lIlIlIlIlIlIlIllII/">
+    <img src="https://img.shields.io/badge/LeetCode-514%20Solved-f89f1b?style=flat&logo=leetcode&logoColor=white" alt="LeetCode solved problems" />
+  </a>
 </p>
 
 <p>
@@ -29,7 +32,7 @@
 
 - Final-year Software Engineering student.
 - Backend-focused developer interested in distributed systems, authentication, realtime architectures, and high-performance APIs.
-- Currently building systems around online exam proctoring, OAuth2/OIDC authorization, Kafka-based event pipelines, and realtime monitoring.
+- Currently building systems around OAuth2/OIDC authorization, Kafka-based event pipelines, realtime monitoring, and AI-assisted product workflows.
 - Comfortable working across backend, frontend, infrastructure, and AI/CV integrations when the product requires end-to-end ownership.
 
 ## Main Focus
@@ -84,70 +87,23 @@ AI-assisted Monitoring   Face/gaze tracking, suspicious-event detection, scoring
 - Prometheus, Grafana, MinIO
 - Local development and deployment with Docker-based environments
 
-## Featured Projects
+## Coding Practice
 
-### Online Exam Cheating Detection System
+<div align="center">
 
-> A microservices-based online proctoring platform for realtime suspicious-behavior detection during exams.
+<a href="https://leetcode.com/u/lIlIlIlIlIlIlIllII/">
+  <img src="https://leetcard.jacoblin.cool/lIlIlIlIlIlIlIllII?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode stats" />
+</a>
 
-Repository: [NguyenHonggHoang/Exam-Cheating-Detection-Online](https://github.com/NguyenHonggHoang/Exam-Cheating-Detection-Online)
+</div>
 
-**Highlights**
+| Platform | Solved | Easy | Medium | Hard | Ranking | Reputation |
+|----------|--------|------|--------|------|---------|------------|
+| [LeetCode](https://leetcode.com/u/lIlIlIlIlIlIlIllII/) | 514 | 175 | 263 | 76 | 183,162 | 128 |
 
-- React exam UI, Next.js BFF gateway, and Spring-based backend services.
-- OAuth2 Authorization Server for identity and secure access flows.
-- Session, incident, user, admin, and gateway services separated by responsibility.
-- PostgreSQL multi-database setup with Redis, Kafka, Debezium CDC, MinIO, and RabbitMQ.
-- Realtime incident tracking, evidence handling, browser-event monitoring, and proctoring workflows.
-
-```mermaid
-flowchart LR
-  Client["React Exam UI"] --> BFF["Next.js BFF Gateway"]
-  BFF --> Auth["Spring Authorization Server"]
-  BFF --> Session["Session Service"]
-  BFF --> Incident["Incident Service"]
-  BFF --> User["User Service"]
-  Session --> DB["PostgreSQL"]
-  Incident --> DB
-  User --> DB
-  DB --> CDC["Debezium CDC"]
-  CDC --> Kafka["Kafka Event Bus"]
-  Kafka --> Session
-  Kafka --> Incident
-  Incident --> Storage["MinIO Evidence Storage"]
-```
-
-### AuthModule
-
-Repository: [NguyenHonggHoang/AuthModule](https://github.com/NguyenHonggHoang/AuthModule)
-
-A Spring Boot authentication and authorization module for a Carbon Credit Marketplace, including JWT access/refresh tokens, email verification, password reset, audit logging, Redis caching, PostgreSQL, Docker, and Swagger/OpenAPI documentation.
-
-### Convertion-App
-
-Repository: [NguyenHonggHoang/Convertion-App](https://github.com/NguyenHonggHoang/Convertion-App)
-
-A full-stack conversion platform with Spring Boot, React, and Flask microservices for unit conversion, currency conversion, user management, economic news analysis, sentiment processing, and exchange-rate alerts.
-
-### RabbitMQ Practice Project
-
-Repository: [NguyenHonggHoang/RabbitMQ](https://github.com/NguyenHonggHoang/RabbitMQ)
-
-A Spring Boot example project for asynchronous message processing with RabbitMQ, demonstrating queue-based product updates and non-blocking backend flows.
-
-### AI Tools Research Collection
-
-Repository: [NguyenHonggHoang/system-prompts-and-models-of-ai-tools](https://github.com/NguyenHonggHoang/system-prompts-and-models-of-ai-tools)
-
-A curated collection related to system prompts and AI tool/model behavior, useful for understanding how modern AI coding and assistant tools are structured.
-
-## What I Care About
-
-- Designing backend services with clear boundaries and predictable contracts.
-- Building secure authentication and authorization flows instead of treating auth as an afterthought.
-- Using asynchronous messaging where it simplifies reliability, integration, and observability.
-- Creating systems that are practical to run locally with Docker and realistic infrastructure dependencies.
-- Turning AI/CV ideas into product workflows with scoring, monitoring, storage, and review paths.
+- Strongest visible signal: consistent algorithm practice with a large share of Medium and Hard problems.
+- Practice areas aligned with backend engineering: data structures, graph/search problems, dynamic programming, and performance-focused problem solving.
+- Public profile: [leetcode.com/u/lIlIlIlIlIlIlIllII](https://leetcode.com/u/lIlIlIlIlIlIlIllII/)
 
 ## GitHub Stats
 
@@ -167,6 +123,9 @@ A curated collection related to system prompts and AI tool/model behavior, usefu
 <p>
   <a href="https://github.com/NguyenHonggHoang">
     <img src="https://img.shields.io/badge/GitHub-NguyenHonggHoang-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/lIlIlIlIlIlIlIllII/">
+    <img src="https://img.shields.io/badge/LeetCode-lIlIlIlIlIlIlIllII-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
